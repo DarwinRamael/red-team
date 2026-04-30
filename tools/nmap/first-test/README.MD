@@ -229,3 +229,7 @@ Este laboratório demonstra que:
 ✔ A análise comparativa aumenta a maturidade técnica
 
 ---
+
+## 📎 Observação
+
+As imagens serão adicionadas com o passar do tempo.
