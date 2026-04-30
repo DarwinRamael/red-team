@@ -25,7 +25,9 @@ O ambiente foi estruturado com três máquinas principais:
 * **Alvo 1 (Windows)** → Serviços típicos Microsoft
 * **Alvo 2 (Linux)** → Serviços comuns em servidores
 
-[INSERIR IMAGEM: diagrama da rede com atacante + Windows + Linux]
+<p align="center">
+  <img src="images/nmap_diagram.jpeg" width="700">
+</p>
 
 ---
 
